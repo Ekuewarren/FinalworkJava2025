@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/model/User.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/model/Booking.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/admin.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/ViewHotelServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/META-INF/context.xml</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/model/UserDAO.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/addCar.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/BookCarServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/model/Car.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/HotelListServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/CarListServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/register.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/viewHotel.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/index.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/viewActivities.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/db/DBConnection.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/activities.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/AddHotelServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/model/Hotel.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/hotels.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/ActivityListServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/dashboard.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/ViewCarsServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/ViewBookingsServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/AddActivityServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/login.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/addHotel.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/model/Activity.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/bookings.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/RegisterServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/LoginServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/manageUsers.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/view_cars.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/cars.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/BookingListServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/ManageUsersServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/hotel_list.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/addActivity.jsp</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/AddCarServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/src/java/servlets/DashboardServlet.java</file>
+            <file>file:/C:/finalwork/VacationPlanner/web/viewBookings.jsp</file>
+        </group>
+    </open-files>
+</project-private>
